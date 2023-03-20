@@ -68,7 +68,7 @@ html {
 
 #hero {
     background: url("/resources/images/img-mission-background.jpg");
-    background: linear-gradient(rgba(81, 61, 38, 0.2), rgba(81, 61, 38, 0.2)), url("/resources/images/img-mission-background.jpg");
+    /*background: linear-gradient(rgba(81, 61, 38, 0.2), rgba(81, 61, 38, 0.2)), url("/resources/images/img-mission-background.jpg");*/
     background-size: cover;
     background-position: center;
     display: flex;
@@ -186,7 +186,7 @@ html {
 
 #location {
     background: url("/resources/images/img-locations-background.webp");
-    background: linear-gradient(rgba(76, 57, 36, 0.2), rgba(76, 57, 36, 0.2)), url("/resources/images/img-locations-background.webp");
+    /*background: linear-gradient(rgba(76, 57, 36, 0.2), rgba(76, 57, 36, 0.2)), url("/resources/images/img-locations-background.webp");*/
     background-size: cover;
     background-position: center;
     display: flex;
