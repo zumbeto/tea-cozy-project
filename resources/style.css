@@ -68,7 +68,7 @@ html {
 
 #hero {
     background: url("/resources/images/img-mission-background.jpg");
-    /*background: linear-gradient(rgba(81, 61, 38, 0.2), rgba(81, 61, 38, 0.2)), url("/resources/images/img-mission-background.jpg");*/
+    background: linear-gradient(rgba(81, 61, 38, 0.2), rgba(81, 61, 38, 0.2)), url("/resources/images/img-mission-background.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -77,8 +77,6 @@ html {
     justify-content: center;
     align-items: center;
     margin: 0 auto;
-    border: 1px solid seashell;
-    border-top: transparent;
 }
 
 .hero-heading-container {
@@ -186,7 +184,7 @@ html {
 
 #location {
     background: url("/resources/images/img-locations-background.webp");
-    /*background: linear-gradient(rgba(76, 57, 36, 0.2), rgba(76, 57, 36, 0.2)), url("/resources/images/img-locations-background.webp");*/
+    background: linear-gradient(rgba(76, 57, 36, 0.2), rgba(76, 57, 36, 0.2)), url("/resources/images/img-locations-background.webp");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -196,7 +194,6 @@ html {
     align-items: center;
     flex-direction: column;
     margin: 15rem auto 0 auto;
-    border: 1px solid seashell;
 }
 
 .location-heading-container {
